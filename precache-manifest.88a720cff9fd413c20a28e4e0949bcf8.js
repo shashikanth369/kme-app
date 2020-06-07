@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3aaeddf6ad63cc306869dba805e44a90",
+    "revision": "d5e3f5efddbfda2f3ac16ca105d627c0",
     "url": "/kme-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kme-app/static/css/2.d7262850.chunk.css"
   },
   {
-    "revision": "28e11022fc9ce480ef19",
-    "url": "/kme-app/static/css/main.5274b046.chunk.css"
+    "revision": "7a71b1ad93c166bb0434",
+    "url": "/kme-app/static/css/main.d5c6285f.chunk.css"
   },
   {
     "revision": "d9051129ef561cfd490e",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kme-app/static/js/2.263fcd74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28e11022fc9ce480ef19",
-    "url": "/kme-app/static/js/main.8db52288.chunk.js"
+    "revision": "7a71b1ad93c166bb0434",
+    "url": "/kme-app/static/js/main.eab40d76.chunk.js"
   },
   {
     "revision": "6acad4b17651bca11546",
     "url": "/kme-app/static/js/runtime-main.0dcbe6c1.js"
+  },
+  {
+    "revision": "c1a55c7064a5ffebbbe19166b562ab04",
+    "url": "/kme-app/static/media/bg-img.c1a55c70.jpg"
   },
   {
     "revision": "50ec2dedd06feec5dd32f157c738c057",
