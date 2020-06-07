@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5e3f5efddbfda2f3ac16ca105d627c0",
+    "revision": "17528e5ba79ffc43eafd12f7c502f038",
     "url": "/kme-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kme-app/static/css/2.d7262850.chunk.css"
   },
   {
-    "revision": "7a71b1ad93c166bb0434",
-    "url": "/kme-app/static/css/main.d5c6285f.chunk.css"
+    "revision": "8c8ef29a3d8bf5099fb0",
+    "url": "/kme-app/static/css/main.b0fc56b1.chunk.css"
   },
   {
     "revision": "d9051129ef561cfd490e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kme-app/static/js/2.263fcd74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a71b1ad93c166bb0434",
+    "revision": "8c8ef29a3d8bf5099fb0",
     "url": "/kme-app/static/js/main.eab40d76.chunk.js"
   },
   {
